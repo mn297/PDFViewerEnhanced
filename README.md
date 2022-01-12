@@ -14,6 +14,9 @@ The original version was great, even before the enhancement it provided a much b
 - No customizable shortcuts
 
 ***
+## INSTALLATION 
+The extension is unpacked and is meant to be installed as such, please follow the instructions in this [guide](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
+***
 ## CREDITS
 [PDF Viewer](https://chrome.google.com/webstore/detail/pdf-viewer/oemmndcbldboiebfnladdacbdfmadadm?hl=en) for the original source code. <br>
 [PDF.js](https://github.com/mozilla/pdf.js) is a Portable Document Format (PDF) viewer that is built with HTML5.
