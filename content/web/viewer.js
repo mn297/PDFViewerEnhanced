@@ -2439,9 +2439,14 @@
                         }
 
                         break;
-                    //changehere
+                    // USER-DEFINED shortcuts
+                    //ctrl+Q shortcut here
                     case 81:
                         PDFViewerApplication.pdfSidebar.toggle();
+                        break;
+                    case 90:
+                        document.getElementById("spreadOdd").click();
+                        break;
                 }
             }
 
