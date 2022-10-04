@@ -3,8 +3,9 @@ PDFViewerEnhanced is a Chrome extension for reading PDFs, an improvement of the 
 
 Built on top of the original source code, the enhanced version provides additional features:
 - Bold rendering, makes the reading experience pleasant when fonts are too light
-- Customizable shortcuts (Beta)
 - Instant zoom, it zooms when you scroll zoom, no delay at all!
+- Customizable shortcuts (WIP)
+
 
 ***
 ## MOTIVATION
