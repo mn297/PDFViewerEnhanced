@@ -2447,6 +2447,9 @@
                     case 90:
                         document.getElementById("spreadOdd").click();
                         break;
+                    case 88:
+                        document.getElementById("spreadEven").click();
+                        break;
                 }
             }
 
