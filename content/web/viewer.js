@@ -2444,11 +2444,11 @@
                     case 81:
                         PDFViewerApplication.pdfSidebar.toggle();
                         break;
-                    case 90:
+                    case 88:
                         document.getElementById("spreadOdd").click();
                         break;
-                    case 88:
-                        document.getElementById("spreadEven").click();
+                    case 90:
+                        document.getElementById("spreadNone").click();
                         break;
                 }
             }
