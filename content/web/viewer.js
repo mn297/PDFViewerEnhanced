@@ -1590,7 +1590,7 @@
 
                     if (pdfTitle) {
                         // _this5.setTitle("".concat(pdfTitle, " - ").concat(contentDispositionFilename || document.title));
-                        _this5.setTitle("".concat(contentDispositionFilename || document.title));
+                        _this5.setTitle("".concat(contentDispositionFilename || document.title));   // mn297
                     } else if (contentDispositionFilename) {
                         _this5.setTitle(contentDispositionFilename);
                     }
