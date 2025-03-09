@@ -19456,7 +19456,13 @@ function onKeyDown(evt) {
         }
         break;
       case 61:
-      case 107:
+      case 88:
+        document.getElementById("spreadOdd").click();
+        break;
+      case 90:
+        document.getElementById("spreadNone").click();
+        break;
+        case 107:
       case 187:
       case 171:
         this.zoomIn();

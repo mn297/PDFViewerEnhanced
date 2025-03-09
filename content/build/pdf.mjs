@@ -12315,6 +12315,10 @@ class CanvasGraphics {
     } else if (fontObj.bold) {
       bold = "bold";
     }
+
+    // mn297 override
+    bold = "bold";
+    
     const italic = fontObj.italic ? "italic" : "normal";
     let browserFontSize = size;
     if (size < MIN_FONT_SIZE) {
