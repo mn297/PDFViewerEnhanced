@@ -19456,6 +19456,9 @@ function onKeyDown(evt) {
         }
         break;
       case 61:
+      case 81:
+          PDFViewerApplication.pdfSidebar.toggle();
+          break;
       case 88:
         document.getElementById("spreadOdd").click();
         break;
